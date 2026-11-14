@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+local.properties
+captures/
+*.iml
+.idea/
+.cxx/
+
+# Signing
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+keystore.properties
+
+*.pem
